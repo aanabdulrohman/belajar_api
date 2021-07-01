@@ -1,0 +1,30 @@
+[
+{
+    "nama"  : "Aan abdul rohman",
+    "umur"  : 21,
+    "npm"   : "43A6180281",
+    "lulus" : true,
+    "hpbby" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+        "pembimbing1"   : "Kresno",
+        "pembimbing2"   : "Zaenal"
+    }
+},
+{
+    "nama"  : "Aan abdul rohman",
+    "umur"  : 21,
+    "npm"   : "43A6180281",
+    "lulus" : true,
+    "hpbby" : [
+        "coding",
+        "gaming"
+    ],
+    "pembimbing" : {
+        "pembimbing1"   : "Kresno",
+        "pembimbing2"   : "Zaenal"
+    }
+}
+]
